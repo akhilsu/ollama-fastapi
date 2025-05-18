@@ -1,4 +1,4 @@
-# ollama-fastapi
+# OLLAMA-FASTAPI
 FastAPI Ollama Integration
 
 # Python code to generate a README file
