@@ -1,9 +1,6 @@
 # OLLAMA-FASTAPI
 FastAPI Ollama Integration
 
-# Python code to generate a README file
-
-readme_content = """
 # FastAPI Ollama Integration
 
 This FastAPI-based application integrates with the Ollama API to provide a variety of natural language processing (NLP) functionalities such as text generation, summarization, classification, translation, and more. The application includes several endpoints that allow users to interact with the model for various tasks.
