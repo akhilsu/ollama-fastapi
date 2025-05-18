@@ -59,7 +59,7 @@ http://127.0.0.1:8000/docs
       }
       ```
 
-   3. Text Generation with Custom Parameters
+   2. Text Generation with Custom Parameters
       
       Endpoint: POST /generate/
       
@@ -80,7 +80,7 @@ http://127.0.0.1:8000/docs
       }
       ```
 
-   4. Text Summarization
+   3. Text Summarization
          
       Endpoint: POST /summarize/
       
@@ -98,7 +98,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   5. Text Classification (Sentiment Analysis)
+   4. Text Classification (Sentiment Analysis)
       
       Endpoint: POST /classify/
       
@@ -116,7 +116,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   6. Question Answering
+   5. Question Answering
       
       Endpoint: POST /qa/
       
@@ -135,7 +135,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   7. Chatbot with Memory (Persistent Chat)
+   6. Chatbot with Memory (Persistent Chat)
       
       Endpoint: POST /chat_with_memory/
       
@@ -157,7 +157,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   8. Language Translation
+   7. Language Translation
       
       Endpoint: POST /translate/
       
@@ -176,7 +176,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   9. Text-to-Speech (Simulated)
+   8. Text-to-Speech (Simulated)
       
       Endpoint: POST /text_to_speech/
       
@@ -194,7 +194,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   10. Model Information
+   9. Model Information
       
       Endpoint: GET /model_info/
       
@@ -210,7 +210,7 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-   11. Token Count
+   10. Token Count
       
       Endpoint: POST /token_count/
    
