@@ -45,6 +45,7 @@ http://127.0.0.1:8000/docs
    1. Basic Text Generation
       
       Endpoint: POST /chat/
+      
       Request Body Example:
       ```json
       {
@@ -61,6 +62,7 @@ http://127.0.0.1:8000/docs
    3. Text Generation with Custom Parameters
       
       Endpoint: POST /generate/
+      
       Request Body Example:
       ```json
       {
@@ -78,9 +80,10 @@ http://127.0.0.1:8000/docs
       }
       ```
 
-      3. Text Summarization
+   4. Text Summarization
          
       Endpoint: POST /summarize/
+      
       Request Body Example:
       ```json
       {
@@ -95,9 +98,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      4. Text Classification (Sentiment Analysis)
+   5. Text Classification (Sentiment Analysis)
       
       Endpoint: POST /classify/
+      
       Request Body Example:
       ```json
       {
@@ -112,9 +116,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      5. Question Answering
+   6. Question Answering
       
       Endpoint: POST /qa/
+      
       Request Body Example:
       ```json
       {
@@ -130,9 +135,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      6. Chatbot with Memory (Persistent Chat)
+   7. Chatbot with Memory (Persistent Chat)
       
       Endpoint: POST /chat_with_memory/
+      
       Request Body Example:
       ```json
       {
@@ -151,9 +157,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      7. Language Translation
+   8. Language Translation
       
       Endpoint: POST /translate/
+      
       Request Body Example:
       ```json
       {
@@ -169,9 +176,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      8. Text-to-Speech (Simulated)
+   9. Text-to-Speech (Simulated)
       
       Endpoint: POST /text_to_speech/
+      
       Request Body Example:
       ```json
       {
@@ -186,9 +194,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      9. Model Information
+   10. Model Information
       
       Endpoint: GET /model_info/
+      
       Response:
       ```json
       {
@@ -201,9 +210,10 @@ http://127.0.0.1:8000/docs
       }
       ```
       
-      10. Token Count
+   11. Token Count
       
       Endpoint: POST /token_count/
+   
       Request Body Example:
       ```json
       {
