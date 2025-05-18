@@ -36,9 +36,9 @@ git clone https://github.com/akhilsu/ollama-fastapi.git
 
 ```bash
 uvicorn main:app --reload
-
+```
+```url
 http://127.0.0.1:8000/docs
-
 ```
 
 3. API Endpoints
